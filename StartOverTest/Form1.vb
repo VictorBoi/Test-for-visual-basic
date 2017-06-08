@@ -3,6 +3,7 @@
 
         System.Console.WriteLine("Hello World")
         MessageBox.Show("Hi there")
-        MessageBox.Show("What's up)
+        MessageBox.Show("What's up")
+        MessageBox.Show("Hi Robersons")
     End Sub
 End Class
