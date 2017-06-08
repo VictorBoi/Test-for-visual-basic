@@ -1,1 +1,11 @@
 \\athena.root\students\657822\GitHub\StartOverTest\StartOverTest\bin\Debug\StartOverTest.exe.config
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\bin\Debug\StartOverTest.exe
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\bin\Debug\StartOverTest.pdb
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\bin\Debug\StartOverTest.xml
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.vbprojResolveAssemblyReference.cache
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.Form1.resources
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.Resources.resources
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.vbproj.GenerateResource.Cache
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.exe
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.xml
+\\athena.root\Students\657822\GitHub\StartOverTest\StartOverTest\obj\Debug\StartOverTest.pdb
