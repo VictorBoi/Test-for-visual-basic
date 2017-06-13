@@ -6,6 +6,6 @@
         MessageBox.Show("What's up")
         MessageBox.Show("Hi Robersons")
         MessageBox.Show(" sup")
-        Messagebox.Show(" Cristen is a fagbot")
+        Messagebox.Show(" E3 Sucked")
     End Sub
 End Class
