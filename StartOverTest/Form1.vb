@@ -7,5 +7,6 @@
         MessageBox.Show("Hi Robersons")
         MessageBox.Show(" sup")
         Messagebox.Show(" E3 Sucked")
+        Messagebox.Show("Test")
     End Sub
 End Class
